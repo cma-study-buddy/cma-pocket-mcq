@@ -28,11 +28,11 @@ Built from the ground up for distraction-free study sessions, both the Android a
 ## 📱 App Preview
 
 <p align="center">
-  <img src="screenshots/cma1.jpeg" width="260" alt="CMA Pocket MCQ — AMOLED Dark Mode" />
+  <img src="cma1.jpeg" width="260" alt="CMA Pocket MCQ — AMOLED Dark Mode" />
   &nbsp;&nbsp;
-  <img src="screenshots/cma2.jpeg" width="260" alt="CMA Pocket MCQ — Light Mode" />
+  <img src="cma2.jpeg" width="260" alt="CMA Pocket MCQ — Light Mode" />
   &nbsp;&nbsp;
-  <img src="screenshots/cma3.jpeg" width="260" alt="CMA Pocket MCQ — In-Quiz CMA-12D Calculator" />
+  <img src="cma3.jpeg" width="260" alt="CMA Pocket MCQ — In-Quiz CMA-12D Calculator" />
 </p>
 
 ---
