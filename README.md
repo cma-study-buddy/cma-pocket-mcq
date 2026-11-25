@@ -11,7 +11,7 @@
 [![Syllabus](https://img.shields.io/badge/Syllabus-2022%20(22%20Papers)-0284C7?style=for-the-badge)](#-covered-papers-all-22-papers)
 [![Release](https://img.shields.io/badge/Release-v1.1.0-FF4D94?style=for-the-badge)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)
 
-[📥 Download v1.1.0](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest) • [📱 App Preview](#-app-preview) • [💡 When to Use](#-built-for-every-stage-of-your-cma-journey) • [🚀 Features](#-key-features) • [🧮 CMA-12D Calculator](#-built-in-cma-12d-calculator) • [📖 All 22 Papers](#-covered-papers-all-22-papers) • [📢 Telegram](https://t.me/cmastudybuddy)
+[📥 Download v1.1.0](https://github.com/cma-study-buddy/cma-pocket-mcq/releases/tag/v1.1.0) • [📱 App Preview](#-app-preview) • [💡 When to Use](#-built-for-every-stage-of-your-cma-journey) • [🚀 Features](#-key-features) • [🧮 CMA-12D Calculator](#-built-in-cma-12d-calculator) • [📖 All 22 Papers](#-covered-papers-all-22-papers) • [📢 Telegram](https://t.me/cmastudybuddy)
 
 </div>
 
@@ -121,7 +121,7 @@ Solve Costing, Financial Management, and SFM numericals without switching device
 ## 📦 Installation Guide
 
 ### Android
-1. Download `CMA-Pocket-MCQ-v1.1.0.apk` from [Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest).
+1. Download `CMA-Pocket-MCQ-v1.1.0.apk` from [Releases](https://github.com/cma-study-buddy/cma-pocket-mcq/releases/tag/v1.1.0).
 2. Tap the downloaded `.apk` file to install (enable **"Install unknown apps"** for your browser or file manager if prompted).
 3. *(Optional)* To use the floating **CMA-12D** calculator over other apps, grant **"Display over other apps"** when prompted inside the calculator screen.
 
