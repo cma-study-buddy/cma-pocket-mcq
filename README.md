@@ -50,7 +50,7 @@ Whether you are opening your books for the first time or counting down the final
 
 ## 📥 Downloads (`v1.1.0`)
 
-Download the release package for your device from the **[GitHub Releases](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)** page:
+Download the release package for your device from the **[GitHub Releases](https://github.com/cma-study-buddy/cma-pocket-mcq)** page:
 
 | Platform | File | Notes |
 | :--- | :--- | :--- |
