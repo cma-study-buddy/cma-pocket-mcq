@@ -11,7 +11,7 @@
 [![Syllabus](https://img.shields.io/badge/Syllabus-2022%20(22%20Papers)-0284C7?style=for-the-badge)](#-covered-papers-all-22-papers)
 [![Release](https://img.shields.io/badge/Release-v1.1.0-FF4D94?style=for-the-badge)](https://github.com/YOUR_USERNAME/YOUR_REPO/releases/latest)
 
-[📥 Download v1.1.0](https://github.com/cma-study-buddy/cma-pocket-mcq/releases/tag/v1.1.0) • [📱 App Preview](#-app-preview) • [💡 When to Use](#-built-for-every-stage-of-your-cma-journey) • [🚀 Features](#-key-features) • [🧮 CMA-12D Calculator](#-built-in-cma-12d-calculator) • [📖 All 22 Papers](#-covered-papers-all-22-papers) • [📢 Telegram](https://t.me/cmastudybuddy)
+[📥 Download v1.1.0](https://github.com/cma-study-buddy/cma-pocket-mcq/releases/download/v1.1.0/CMA-Pocket-MCQ-v1.1.0.apk) • [📱 App Preview](#-app-preview) • [💡 When to Use](#-built-for-every-stage-of-your-cma-journey) • [🚀 Features](#-key-features) • [🧮 CMA-12D Calculator](#-built-in-cma-12d-calculator) • [📖 All 22 Papers](#-covered-papers-all-22-papers) • [📢 Telegram](https://t.me/cmastudybuddy)
 
 </div>
 
